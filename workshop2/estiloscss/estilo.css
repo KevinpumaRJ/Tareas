@@ -1,0 +1,17 @@
+.foto1 {
+  height: 57px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  float: left;
+  width: 100px;
+}
+
+.foto2{
+  height: 250px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  float: right;
+  width: 277px;
+}
