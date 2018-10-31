@@ -1,0 +1,62 @@
+.container{
+  width: 50%;
+  text-align: justify;
+  position: absolute;
+  justify-content: space-between;
+  right: 300px;
+}
+
+.container2{
+  position: absolute;
+  align-content: space-between;
+  top: 160%;
+}
+
+.container3{
+  position: absolute;
+  align-content: space-between;
+  top: 300%;
+}
+
+body{
+  background-color: white;
+}
+
+p .span1{
+  color: red;
+}
+
+.foto{
+  position: absolute;
+  justify-content: space-between;
+  left: 65%;
+  align-content: space-between;
+  top: 89%;
+}
+
+.foto2{
+  position: absolute;
+  align-content: space-between;
+  top: 200%;
+}
+
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+.t tr:nth-child(even) {
+    background-color: #eee;
+}
+.t tr:nth-child(odd) {
+   background-color: #fff;
+}
+.t th {
+    background-color: black;
+    color: white;
